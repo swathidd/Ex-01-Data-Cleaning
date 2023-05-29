@@ -63,7 +63,7 @@ df.info
 ## MEDIAN
 ![Screenshot 2023-03-20 111923](https://user-images.githubusercontent.com/120440439/226257658-00362153-f626-4fb0-98a6-34aafedaabd1.png)
 
-NON NULL AFTER
+# NON NULL AFTER
 
 df.info()
 
