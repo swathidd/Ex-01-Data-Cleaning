@@ -43,17 +43,12 @@ df.head()
 df.info()
 df.isnull().sum()
 ```
-
 # OUPUT
 ## DATA
 ![d1](https://user-images.githubusercontent.com/120440439/226254261-8603aa45-22ac-43b9-8089-0bf0fe3fc8d0.png)
-
 ## NON NULL BEFORE
-
 df.info
-
 ![non](https://user-images.githubusercontent.com/120440439/226255200-ccb21bf0-bba4-467c-9c59-bae6b039e6d6.png)
-
 ## MODE
 ![Screenshot 2023-03-20 110913](https://user-images.githubusercontent.com/120440439/226256267-c48ff7a0-4576-4d78-9597-799daf39eefa.png)
 
